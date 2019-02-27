@@ -1,0 +1,4 @@
+# dependecies directory
+node_modules/
+# build directory
+build/
